@@ -262,7 +262,7 @@
 				DEVELOPMENT_TEAM = R4W7XLYY5Y;
 				INFOPLIST_FILE = MyFirstApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.appcoda.MyFirstApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.appcoda.MyFirstApp1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -275,7 +275,7 @@
 				DEVELOPMENT_TEAM = R4W7XLYY5Y;
 				INFOPLIST_FILE = MyFirstApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.appcoda.MyFirstApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.appcoda.MyFirstApp1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
